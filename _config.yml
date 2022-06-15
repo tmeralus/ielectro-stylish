@@ -15,9 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Ielectro Fix Solutions
 email: raymondsteve1790@hotmail.com
-description: Stylish Portfolio is a responsive, one page portfolio theme for Bootstrap created by Start Bootstrap. The theme features multiple content sections with an off canvas navigation menu.
-
-keywords: jekyll, bootstrap, jekyll-site, jekyll-website, html, bootstrap4, bootstrap-4, bootstrap-theme, bootstrap-template, portfolio-website, portfolio-theme, open-source, free, google-anaytics, github-pages
+description: Cellphone and PC repair. We also buy and sell.
+keywords: cellphone, pc repair, tech repair, west palm beach, lake worth, lw, buy and sell, android, ios, palm beach, solutions, jekyll, bootstrap, jekyll-site, jekyll-website, html, bootstrap4, bootstrap-4, bootstrap-theme, bootstrap-template, portfolio-website, portfolio-theme, open-source, free, google-anaytics, github-pages
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://1019studios.org/ielectro-stylish" # the base hostname & protocol for your site, e.g. http://example.com
