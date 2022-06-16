@@ -232,6 +232,11 @@ h6 {
   max-width: 30rem;
 }
 
+.callout table {
+  margin-left:auto; 
+  margin-right:auto;
+}
+
 .portfolio-item {
   display: block;
   position: relative;
